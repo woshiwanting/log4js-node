@@ -1,6 +1,6 @@
 {
-  "name": "log4js",
-  "version": "0.6.30",
+  "name": "log4js_tc",
+  "version": "0.0.1",
   "description": "Port of Log4js to work with node.",
   "keywords": [
     "logging",
@@ -13,10 +13,10 @@
   "author": "Gareth Jones <gareth.nomiddlename@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nomiddlename/log4js-node.git"
+    "url": "https://github.com/woshiwanting/log4js-node.git"
   },
   "bugs": {
-    "url": "http://github.com/nomiddlename/log4js-node/issues"
+    "url": "http://github.com/woshiwanting/log4js-node/issues"
   },
   "engines": {
     "node": ">=0.8"
