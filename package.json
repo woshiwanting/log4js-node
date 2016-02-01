@@ -1,6 +1,6 @@
 {
   "name": "log4js_tc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "增加_dateFile类型，支持maxLogSize设置",
   "keywords": [
     "logging",
