@@ -1,7 +1,7 @@
 {
   "name": "log4js_tc",
   "version": "0.0.1",
-  "description": "Port of Log4js to work with node.",
+  "description": "增加_dateFile类型，支持maxLogSize设置",
   "keywords": [
     "logging",
     "log",
